@@ -4,12 +4,12 @@
 
 ## 🐣 Account
 
-[![Linkedin Badge](https://img.shields.io/badge/-ArnaudRougetet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaud-rougetet-092414158/)](https://www.linkedin.com/in/arnaud-rougetet-092414158/)
-[![Github Badge](https://img.shields.io/badge/-Arnaud58-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Arnaud58)](https://github.com/Arnaud58)
-[![Gitlab Badge](https://img.shields.io/badge/-Arnaud58-FCA121?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Arnaud58)](https://gitlab.com/Arnaud58)
 [![Kaggle Badge](https://img.shields.io/badge/-Arnaud58-26C0FF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/arnaud58/)](https://www.kaggle.com/arnaud58/)
 [![Epic Badge](https://img.shields.io/badge/-Gould58-black?style=flat-square&logo=unrealengine&logoColor=white&link=https://learn.unrealengine.com/)](https://learn.unrealengine.com/)
 [![Oculus Badge](https://img.shields.io/badge/-Gould58-black?style=flat-square&logo=oculus&logoColor=white&link=https://developer.oculus.com)](https://developer.oculus.com)
+[![Github Badge](https://img.shields.io/badge/-Arnaud58-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Arnaud58)](https://github.com/Arnaud58)
+[![Gitlab Badge](https://img.shields.io/badge/-Arnaud58-FCA121?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Arnaud58)](https://gitlab.com/Arnaud58)
+[![Linkedin Badge](https://img.shields.io/badge/-ArnaudRougetet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaud-rougetet-092414158/)](https://www.linkedin.com/in/arnaud-rougetet-092414158/)
 [![Gmail Badge](https://img.shields.io/badge/-r.arnaud500@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.arnaud500@gmail.com)](mailto:r.arnaud500@gmail.com)
 
 ## 💻 Presentation
