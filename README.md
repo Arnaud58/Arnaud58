@@ -33,6 +33,6 @@ I have a Master's degree in Computer Science specialized in the field of Image, 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-E95431?style=flat-square&logo=tensorflow)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Arnaud58&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaud58&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Arnaud58&include_all_commits=true&show_icons=true&hide=prs,contribs,issues&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaud58&layout=compact&theme=tokyonight)
   
