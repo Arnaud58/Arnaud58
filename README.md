@@ -31,8 +31,9 @@ I have a Master's degree in Computer Science specialized in the field of Image, 
 ![Python](https://img.shields.io/badge/-Python-FFD240?style=flat-square&logo=Python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-FDF41C?style=flat-square&logo=jupyter)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-E95431?style=flat-square&logo=tensorflow)
+![Golang](https://img.shields.io/badge/-Golang-lightblue?style=flat-square&logo=go)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Arnaud58&include_all_commits=true&show_icons=true&hide=prs,contribs,issues&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaud58&layout=compact&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Arnaud58&include_all_commits=true&show_icons=true&hide=prs,issues&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Arnaud58&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight)
   
