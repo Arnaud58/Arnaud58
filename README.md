@@ -11,7 +11,7 @@
 [![Gitlab Badge](https://img.shields.io/badge/-Arnaud58-FCA121?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Arnaud58)](https://gitlab.com/Arnaud58)
 [![Linkedin Badge](https://img.shields.io/badge/-ArnaudRougetet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaud-rougetet-092414158/)](https://www.linkedin.com/in/arnaud-rougetet-092414158/)
 [![Gmail Badge](https://img.shields.io/badge/-r.arnaud500@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.arnaud500@gmail.com)](mailto:r.arnaud500@gmail.com)
-[![Artstation Badge](https://img.shields.io/badge/-r.arnaud500@gmail.com-171717?style=flat-square&logo=artstation&link=https://www.artstation.com/arnaudrougetet7)](https://www.artstation.com/arnaudrougetet7)
+[![Artstation Badge](https://img.shields.io/badge/-arnaudrougetet7-171717?style=flat-square&logo=artstation&link=https://www.artstation.com/arnaudrougetet7)](https://www.artstation.com/arnaudrougetet7)
 
 ## 💻 Presentation
 
