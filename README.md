@@ -60,7 +60,7 @@ I have a Master's degree in Computer Science specialized in the field of Image, 
 ![](img/30810-110BlueprintEssentialConcepts.png)
 ![](img/39266-UnrealEditorFundamentals-ActorsandBlueprints.png)
 ![](img/38819-656BlueprintKickstart.png)
-![](img/39655-1043-Blueprint-Runtime-Saving-Loading-Copy-Copy.png)
+![](img/39655-1043-Blueprint-Runtime-Saving-Loading.png)
 ![](img/39567-BlueprintsandGameplayInDevelopment.png)
 
 ### 🕰️ Real Time
