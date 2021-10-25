@@ -39,16 +39,16 @@ I have a Master's degree in Computer Science specialized in the field of Image, 
 ### 🥽 Oculus 
 
 ![](img/39393-PrepareUnrealforVirtualRealityDevelopment.png)
-![](img/39397-IdentifyGraphics%26RenderingConsiderationsforVR.png)
-![](img/39401-Understand%26ImplementLocomotion%26Ergonomics.png)
-![](img/39405-IncorporateHandpresence%26Interaction.png)
+![](img/39397-IdentifyGraphics_RenderingConsiderationsforVR.png)
+![](img/39401-Understand_ImplementLocomotion_Ergonomics.png)
+![](img/39405-IncorporateHandpresence_Interaction.png)
 ![](img/39409-ImplementUIwithUnrealMotionGraphics.png)
 ![](img/39413-DemonstrateLevelLoadOptimization.png)
 ![](img/39417-SoundDesignforVirtualReality.png)
 ![](img/39422-CreateaSocialVRExperience.png)
 ![](img/39426-OculusMixedRealityCapture.png)
-![](img/39430-Tools%26PrinciplesforProjectOptimization.png)
-![](img/39437-AnalyzePerformance%26ApplyCommonOptimizations.png)
+![](img/39430-Tools_PrinciplesforProjectOptimization.png)
+![](img/39437-AnalyzePerformance_ApplyCommonOptimizations.png)
 ![](img/39438-PrepareYourOculusVRAppforSubmission.png)
 ![](img/39442-OculusVRProductionforUnrealEngine.png)
 
@@ -57,10 +57,10 @@ I have a Master's degree in Computer Science specialized in the field of Image, 
 ![](img/39734-BlueprintJourneyman.png)
 ![](img/39735-BlueprintNinja.png)
 ![](img/39736-BlueprintMaster.png)
-![](img/30810-110BlueprintEssentialConcepts%402x.png)
+![](img/30810-110BlueprintEssentialConcepts.png)
 ![](img/39266-UnrealEditorFundamentals-ActorsandBlueprints.png)
-![](img/38819-656BlueprintKickstart%402x.png)
-![](img/39655-1043-Blueprint-Runtime-Saving-Loading%402x-Copy-Copy.png)
+![](img/38819-656BlueprintKickstart.png)
+![](img/39655-1043-Blueprint-Runtime-Saving-Loading-Copy-Copy.png)
 ![](img/39567-BlueprintsandGameplayInDevelopment.png)
 
 ### 🕰️ Real Time
