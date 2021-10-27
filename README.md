@@ -33,40 +33,45 @@ I have a Master's degree in Computer Science specialized in the field of Image, 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-FDF41C?style=flat-square&logo=jupyter)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-E95431?style=flat-square&logo=tensorflow)
 ![Golang](https://img.shields.io/badge/-Golang-lightblue?style=flat-square&logo=go)
+![Blender](https://img.shields.io/badge/-Blender-3E76A2?style=flat-square&logo=blender)
 
 ## 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Unreal Badge
 
 ### 🥽 Oculus 
 
-![](img/39393-PrepareUnrealforVirtualRealityDevelopment.png)
-![](img/39397-IdentifyGraphics_RenderingConsiderationsforVR.png)
-![](img/39401-Understand_ImplementLocomotion_Ergonomics.png)
-![](img/39405-IncorporateHandpresence_Interaction.png)
-![](img/39409-ImplementUIwithUnrealMotionGraphics.png)
-![](img/39413-DemonstrateLevelLoadOptimization.png)
-![](img/39417-SoundDesignforVirtualReality.png)
-![](img/39422-CreateaSocialVRExperience.png)
-![](img/39426-OculusMixedRealityCapture.png)
-![](img/39430-Tools_PrinciplesforProjectOptimization.png)
-![](img/39437-AnalyzePerformance_ApplyCommonOptimizations.png)
-![](img/39438-PrepareYourOculusVRAppforSubmission.png)
-![](img/39442-OculusVRProductionforUnrealEngine.png)
+[![Oculus VR Production for Unreal Engine](img/39393-PrepareUnrealforVirtualRealityDevelopment.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Oculus VR Production for Unreal Engine](img/39397-IdentifyGraphics_RenderingConsiderationsforVR.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Oculus VR Production for Unreal Engine](img/39401-Understand_ImplementLocomotion_Ergonomics.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Oculus VR Production for Unreal Engine](img/39405-IncorporateHandpresence_Interaction.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Oculus VR Production for Unreal Engine](img/39409-ImplementUIwithUnrealMotionGraphics.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Oculus VR Production for Unreal Engine](img/39413-DemonstrateLevelLoadOptimization.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Oculus VR Production for Unreal Engine](img/39417-SoundDesignforVirtualReality.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Oculus VR Production for Unreal Engine](img/39422-CreateaSocialVRExperience.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Oculus VR Production for Unreal Engine](img/39426-OculusMixedRealityCapture.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Oculus VR Production for Unreal Engine](img/39430-Tools_PrinciplesforProjectOptimization.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Oculus VR Production for Unreal Engine](img/39437-AnalyzePerformance_ApplyCommonOptimizations.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Oculus VR Production for Unreal Engine](img/39438-PrepareYourOculusVRAppforSubmission.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Oculus VR Production for Unreal Engine](img/39442-OculusVRProductionforUnrealEngine.png)](https://learn.unrealengine.com/home/LearningPath/117459?r=False&ts=637708994563475297)
+[![Creating Virtual Reality Walkthroughs](img/30836-207VirtualRealityWalkthroughswithUnrealEngine.png)](https://learn.unrealengine.com/course/2436636?r=False&ts=637708995468057151)
 
 ### 📘 Blueprints
 
-![](img/39734-BlueprintJourneyman.png)
-![](img/39735-BlueprintNinja.png)
-![](img/39736-BlueprintMaster.png)
-![](img/30810-110BlueprintEssentialConcepts.png)
-![](img/39266-UnrealEditorFundamentals-ActorsandBlueprints.png)
-![](img/38819-656BlueprintKickstart.png)
-![](img/39655-1043-Blueprint-Runtime-Saving-Loading.png)
-![](img/39567-BlueprintsandGameplayInDevelopment.png)
-
+![Ninja Journeyman](img/39734-BlueprintJourneyman.png)
+![Ninja](img/39735-BlueprintNinja.png)
+![Ninja Master](img/39736-BlueprintMaster.png)
+[![Blueprints - Essential Concepts](img/30810-110BlueprintEssentialConcepts.png)](https://learn.unrealengine.com/course/2436619?r=False&ts=637708995468057151)
+[![Unreal Editor Fundamentals - Actors and Blueprints](img/39266-UnrealEditorFundamentals-ActorsandBlueprints.png)](https://learn.unrealengine.com/course/3737865?r=False&ts=637708995468057151)
+[![Blueprint Kickstart](img/38819-656BlueprintKickstart.png)](https://learn.unrealengine.com/course/3537777?r=False&ts=637708995468057151)
+[![Blueprint Runtime Saving and Loading](img/39655-1043-Blueprint-Runtime-Saving-Loading.png)](https://learn.unrealengine.com/course/3762545?r=False&ts=637708995468057151)
+[![Blueprints and Gameplay for Game Designers](img/39567-BlueprintsandGameplayInDevelopment.png)](https://learn.unrealengine.com/home/LearningPath/119037?r=False&ts=637708998439283179)
+[![Converting Blueprint to C++](img/38483-601ConvertingBlueprint.png)](https://learn.unrealengine.com/course/3441566?r=False&ts=637708995468057151)
 ### 🕰️ Real Time
 
-![]()
-![]()
+![](img/32173-IntroductiontothePrinciplesofReal-Time.png)
+![](img/30828-404Real-TimeRenderingFundamentals.png)
+![](img/30815-106Real-TimeRendering.png)
+![](img/39529-JourneytobecominganEnvironmentArtistinUnreal.png)
+![](img/30844-204GlobalIlluminationWorkflowsforArchitecture.png)
 
 ## :bar_chart: Stats
 
