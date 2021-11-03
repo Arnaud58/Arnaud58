@@ -75,6 +75,6 @@ I have a Master's degree in Computer Science specialized in the field of Image, 
 
 ## :bar_chart: Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Arnaud58&include_all_commits=true&show_icons=true&hide=prs,issues&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Arnaud58&include_all_commits=true&show_icons=true&count_private=true&hide=prs,issues&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Arnaud58&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight)
   
