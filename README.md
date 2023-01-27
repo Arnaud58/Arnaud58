@@ -17,7 +17,8 @@
 
 I am an Unreal developer specialized in Virtual Reality. I obtained a Master's degree in Computer Science specialized in the field of Image, Vision and Interaction in 2020.
 - I have experience in the research world
-- I am currently working on an exciting Virtual Reality project within the Wellputt team !
+- I worked on an Virtual Reality trainning program within the [Wellputt](https://wellputt.com/) team
+- I am currently working on existing projects within [Myxed](https://www.myxed.eu/)
 - I like to prototype simple AI when my free time allows it or to do 3D modeling
 
 ## ⚡ Technologies
