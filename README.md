@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![visitor badge](https://visitor-badge.imlete.cn/?id=Arnaud58.Arnaud58&label=Unique&type=uv&color=3c7dbe)
-![visitor badge](https://visitor-badge.imlete.cn/?id=Arnaud58.Arnaud58&label=Total&color=3c7dbe)
+![visitor badge](https://visitor-badge.imlete.cn/?id=Arnaud58.Arnaud58&label=Total%20of%20visits&&color=3c7dbe)
 
 ## 🐣 Account
 
